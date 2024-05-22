@@ -1,1 +1,1 @@
-# Razorpay-Clone
+This repository contains a clone of the Razorpay website, created using HTML and CSS. The project aims to replicate the layout and design of the original Razorpay homepage, showcasing my skills in front-end development and UI/UX design. 
